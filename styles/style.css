@@ -5,7 +5,7 @@ body {
     letter-spacing: .5em;
     margin-top: 4em;
     line-height: 4rem;
-    background: linear-gradient(to right, rgb(44, 152, 202), rgb(95, 31, 76));
+    background: linear-gradient(to right, #2c98ca, #5f1f4c);
 }
 
 h1 {
